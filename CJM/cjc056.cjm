@@ -1,9 +1,11 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\3,1\4,1\5,1\6,1\2\7,1\2\8,1\2\9,1\10
-REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\3,1\4,1\5,1\6,1\2\7,1\2\8,1\2\9,1\10
+DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09
 
+#
 1-01 タイトル.mp3
 00:00:00 10:cjc056_0001
+#
 1-02 Level 1-001-015.mp3
 00:00:00 0:
 00:00:05 10:cjc056_0002
@@ -98,6 +100,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:03 0:
 01:09:16 9:cjc056_0047
 01:10:57 0:
+#
 1-03 Level 1-016-027.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0048
@@ -184,6 +187,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:06 0:
 01:07:19 9:cjc056_0089
 01:09:09 0:
+#
 1-04 Level 1-028-037.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0090
@@ -254,6 +258,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:49 0:
 00:56:61 9:cjc056_0123
 00:58:30 0:
+#
 1-05 Level 1-038-049.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0124
@@ -328,6 +333,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:58:66 0:
 00:59:04 9:cjc056_0159
 01:00:66 0:
+#
 1-06 Level 1-050-061.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0160
@@ -410,6 +416,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:54 0:
 01:05:68 9:cjc056_0199
 01:07:74 0:
+#
 1-07 Level 1-062-072.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0200
@@ -482,6 +489,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:55 0:
 01:00:68 9:cjc056_0234
 01:02:42 0:
+#
 1-08 Level 1-073-079.mp3
 00:00:00 0:
 00:00:01 10:cjc056_0235
@@ -512,6 +520,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:37:26 0:
 00:38:02 3:cjc056_0248
 00:40:30 0:
+#
 1-09 Level 1-080-082.mp3
 00:00:00 0:
 00:00:01 10:cjc056_0249
@@ -540,6 +549,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:30:34 0:
 00:30:57 4:cjc056_0261
 00:33:07 0:
+#
 1-10 Level 1-083-085.mp3
 00:00:00 0:
 00:00:01 10:cjc056_0262
@@ -570,6 +580,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:37:08 0:
 00:37:32 4:cjc056_0275
 00:38:20 0:
+#
 1-11 Level 1-086-098.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0276
@@ -658,6 +669,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:09 0:
 01:11:23 9:cjc056_0318
 01:13:16 0:
+#
 1-12 Level 1-099-111.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0319
@@ -742,6 +754,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:54 0:
 01:15:70 9:cjc056_0359
 01:18:17 0:
+#
 1-13 Level 1-112-121.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0360
@@ -804,6 +817,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:49:53 0:
 00:49:69 9:cjc056_0389
 00:51:46 0:
+#
 1-14 Level 1-122-132.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0390
@@ -872,6 +886,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:42 0:
 00:55:55 9:cjc056_0422
 00:57:23 0:
+#
 1-15 Level 1-133-140.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0423
@@ -946,6 +961,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:28 0:
 01:05:40 9:cjc056_0458
 01:07:27 0:
+#
 1-16 Level 1-141-150.mp3
 00:00:00 0:
 00:00:07 7:cjc056_0459
@@ -1014,6 +1030,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:57:56 0:
 00:57:70 9:cjc056_0491
 01:00:57 0:
+#
 1-17 Level 1-151-158.mp3
 00:00:00 0:
 00:00:01 10:cjc056_0492
@@ -1046,6 +1063,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:37:57 0:
 00:38:30 3:cjc056_0506
 00:40:66 0:
+#
 1-18 Level 1-159-161.mp3
 00:00:00 0:
 00:00:01 10:cjc056_0507
@@ -1076,6 +1094,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:31:12 0:
 00:31:31 4:cjc056_0520
 00:33:71 0:
+#
 1-19 Level 1-162-164.mp3
 00:00:00 0:
 00:00:07 10:cjc056_0521
@@ -1106,6 +1125,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:33:21 0:
 00:33:42 4:cjc056_0534
 00:35:02 0:
+#
 1-20 Level 1-165-175.mp3
 00:00:00 0:
 00:00:01 10:cjc056_0535
@@ -1176,6 +1196,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:48 0:
 01:15:56 9:cjc056_0568
 01:19:46 0:
+#
 1-21 Level 1-顔と体.mp3
 00:00:00 0:
 00:00:05 5:cjc056_0569
@@ -1280,6 +1301,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:47 0:
 01:13:57 5:cjc056_0619
 01:14:68 0:
+#
 1-22 Level 2-176-186.mp3
 00:00:00 0:
 00:00:01 10:cjc056_0620
@@ -1350,6 +1372,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:49 0:
 01:00:62 9:cjc056_0653
 01:03:41 0:
+#
 1-23 Level 2-187-201.mp3
 00:00:00 0:
 00:00:07 7:cjc056_0654
@@ -1442,6 +1465,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:39 0:
 01:10:55 9:cjc056_0698
 01:12:36 0:
+#
 1-24 Level 2-202-212.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0699
@@ -1516,6 +1540,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:05 0:
 01:09:16 9:cjc056_0734
 01:11:29 0:
+#
 1-25 Level 2-213-225.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0735
@@ -1596,6 +1621,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:00 0:
 01:04:13 9:cjc056_0773
 01:06:26 0:
+#
 1-26 Level 2-226-236.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0774
@@ -1670,6 +1696,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:51 0:
 00:59:63 9:cjc056_0809
 01:02:50 0:
+#
 1-27 Level 2-237-246.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0810
@@ -1738,6 +1765,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:63 0:
 01:00:02 9:cjc056_0842
 01:01:54 0:
+#
 1-28 Level 2-247-253.mp3
 00:00:00 0:
 00:00:01 10:cjc056_0843
@@ -1766,6 +1794,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:33:50 0:
 00:34:30 3:cjc056_0855
 00:37:20 0:
+#
 1-29 Level 2-254-257.mp3
 00:00:00 0:
 00:00:03 10:cjc056_0856
@@ -1802,6 +1831,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:51:20 0:
 00:51:44 4:cjc056_0872
 00:53:58 0:
+#
 1-30 Level 2-258-260.mp3
 00:00:00 0:
 00:00:05 10:cjc056_0873
@@ -1832,6 +1862,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:41:42 0:
 00:41:59 4:cjc056_0886
 00:44:42 0:
+#
 1-31 Level 2-261-265.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0887
@@ -1882,6 +1913,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:40:68 0:
 00:41:00 9:cjc056_0910
 00:43:21 0:
+#
 1-32 Level 2-266-278.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0911
@@ -1966,6 +1998,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:54 0:
 01:08:66 9:cjc056_0951
 01:10:65 0:
+#
 1-33 Level 2-279-290.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0952
@@ -2048,6 +2081,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:21 0:
 01:07:37 9:cjc056_0991
 01:09:12 0:
+#
 1-34 Level 2-291-300.mp3
 00:00:00 0:
 00:00:05 7:cjc056_0992
@@ -2122,6 +2156,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:17:69 0:
 01:18:07 9:cjc056_1027
 01:19:70 0:
+#
 1-35 Level 2-301-312.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1028
@@ -2200,6 +2235,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:71 0:
 01:03:10 9:cjc056_1065
 01:05:44 0:
+#
 1-36 Level 2-313-325.mp3
 00:00:00 0:
 00:00:13 7:cjc056_1066
@@ -2280,6 +2316,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:49 0:
 01:03:63 9:cjc056_1104
 01:05:26 0:
+#
 1-37 Level 2-326-332.mp3
 00:00:00 0:
 00:00:01 10:cjc056_1105
@@ -2314,6 +2351,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:27 0:
 00:43:03 3:cjc056_1120
 00:45:43 0:
+#
 1-38 Level 2-333-335.mp3
 00:00:00 0:
 00:00:03 10:cjc056_1121
@@ -2348,6 +2386,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:19 0:
 00:46:43 4:cjc056_1136
 00:48:42 0:
+#
 1-39 Level 2-336-338.mp3
 00:00:00 0:
 00:00:03 10:cjc056_1137
@@ -2382,6 +2421,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:33 0:
 00:45:57 4:cjc056_1152
 00:48:02 0:
+#
 1-40 Level 2-339-349.mp3
 00:00:00 0:
 00:00:01 10:cjc056_1153
@@ -2452,6 +2492,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:25:04 0:
 01:25:17 9:cjc056_1186
 01:28:06 0:
+#
 1-41 Level 2-clothing.mp3
 00:00:00 0:
 00:00:03 5:cjc056_1187
@@ -2548,6 +2589,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:44 0:
 01:12:56 5:cjc056_1233
 01:14:16 0:
+#
 1-42 Level 3-350-360.mp3
 00:00:00 0:
 00:00:07 10:cjc056_1234
@@ -2618,6 +2660,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:56:08 0:
 00:56:20 9:cjc056_1267
 00:58:09 0:
+#
 1-43 Level 3-361-370.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1268
@@ -2692,6 +2735,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:55:53 0:
 00:55:63 9:cjc056_1303
 00:57:35 0:
+#
 1-44 Level 3-371-384.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1304
@@ -2778,6 +2822,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:63 0:
 01:07:74 9:cjc056_1345
 01:09:52 0:
+#
 1-45 Level 3-385-395.mp3
 00:00:00 0:
 00:00:01 7:cjc056_1346
@@ -2858,6 +2903,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:19 0:
 01:04:33 9:cjc056_1384
 01:05:66 0:
+#
 1-46 Level 3-396-408.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1385
@@ -2942,6 +2988,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:47 0:
 01:07:57 9:cjc056_1425
 01:09:57 0:
+#
 1-47 Level 3-409-417.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1426
@@ -3002,6 +3049,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:48:61 0:
 00:49:02 9:cjc056_1454
 00:51:07 0:
+#
 1-48 Level 3-418-425.mp3
 00:00:00 0:
 00:00:01 10:cjc056_1455
@@ -3034,6 +3082,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:43:05 0:
 00:43:54 3:cjc056_1469
 00:45:51 0:
+#
 1-49 Level 3-426-428.mp3
 00:00:00 0:
 00:00:03 10:cjc056_1470
@@ -3064,6 +3113,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:36:17 0:
 00:36:42 4:cjc056_1483
 00:39:33 0:
+#
 1-50 Level 3-429-432.mp3
 00:00:00 0:
 00:00:01 10:cjc056_1484
@@ -3096,6 +3146,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:40:01 0:
 00:40:24 4:cjc056_1498
 00:42:02 0:
+#
 1-51 Level 3-433-441.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1499
@@ -3170,6 +3221,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:32 0:
 01:06:45 9:cjc056_1534
 01:08:11 0:
+#
 1-52 Level 3-442-453.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1535
@@ -3244,6 +3296,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:21 0:
 01:04:35 9:cjc056_1570
 01:06:02 0:
+#
 1-53 Level 3-454-465.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1571
@@ -3324,6 +3377,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:37 0:
 01:07:49 9:cjc056_1609
 01:09:22 0:
+#
 1-54 Level 3-466-478.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1610
@@ -3410,6 +3464,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:29 0:
 01:11:39 9:cjc056_1651
 01:13:22 0:
+#
 1-55 Level 3-479-490.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1652
@@ -3496,6 +3551,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:13 0:
 01:11:29 9:cjc056_1693
 01:13:00 0:
+#
 1-56 Level 3-491-500.mp3
 00:00:00 0:
 00:00:05 7:cjc056_1694
@@ -3558,6 +3614,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:48:30 0:
 00:48:42 9:cjc056_1723
 00:51:63 0:
+#
 1-57 Level 3-501-506.mp3
 00:00:00 0:
 00:00:01 10:cjc056_1724
@@ -3586,6 +3643,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:34:65 0:
 00:35:45 3:cjc056_1736
 00:37:50 0:
+#
 1-58 Level 3-507-510.mp3
 00:00:00 0:
 00:00:03 10:cjc056_1737
@@ -3622,6 +3680,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:37 0:
 00:45:63 4:cjc056_1753
 00:47:70 0:
+#
 1-59 Level 3-511-514.mp3
 00:00:00 0:
 00:00:03 10:cjc056_1754
@@ -3656,6 +3715,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:36:03 0:
 00:36:25 4:cjc056_1769
 00:37:61 0:
+#
 1-60 Level 3-515-525.mp3
 00:00:00 0:
 00:00:01 10:cjc056_1770
@@ -3726,6 +3786,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:26:03 0:
 01:26:17 9:cjc056_1803
 01:29:07 0:
+#
 1-61 Level 3-家.mp3
 00:00:00 0:
 00:00:11 5:cjc056_1804
@@ -3812,6 +3873,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:46 0:
 01:04:19 10:cjc056_1845
 01:06:69 0:
+#
 2-01 Level 4-526-537.mp3
 00:00:00 0:
 00:00:03 10:cjc056_1846
@@ -3892,6 +3954,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:55 0:
 01:06:67 9:cjc056_1884
 01:09:54 0:
+#
 2-02 Level 4-538-549.mp3
 00:00:00 0:
 00:00:07 7:cjc056_1885
@@ -3970,6 +4033,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:70 0:
 01:05:09 9:cjc056_1922
 01:07:14 0:
+#
 2-03 Level 4-550-563.mp3
 00:00:00 0:
 00:00:07 7:cjc056_1923
@@ -4056,6 +4120,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:27 0:
 01:11:41 9:cjc056_1964
 01:13:16 0:
+#
 2-04 Level 4-564-575.mp3
 00:00:00 0:
 00:00:07 7:cjc056_1965
@@ -4134,6 +4199,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:11 0:
 01:05:24 9:cjc056_2002
 01:07:57 0:
+#
 2-05 Level 4-576-586.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2003
@@ -4202,6 +4268,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:12 0:
 00:59:28 9:cjc056_2035
 01:01:33 0:
+#
 2-06 Level 4-587-598.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2036
@@ -4276,6 +4343,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:18 0:
 01:02:30 9:cjc056_2071
 01:05:03 0:
+#
 2-07 Level 4-599-606.mp3
 00:00:00 0:
 00:00:05 10:cjc056_2072
@@ -4310,6 +4378,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:65 0:
 00:46:39 3:cjc056_2087
 00:49:02 0:
+#
 2-08 Level 4-607-609.mp3
 00:00:00 0:
 00:00:05 10:cjc056_2088
@@ -4336,6 +4405,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:30:48 0:
 00:30:71 4:cjc056_2099
 00:33:24 0:
+#
 2-09 Level 4-610-612.mp3
 00:00:00 0:
 00:00:13 10:cjc056_2100
@@ -4366,6 +4436,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:26:69 0:
 00:27:20 4:cjc056_2113
 00:29:19 0:
+#
 2-10 Level 4-613-626.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2114
@@ -4456,6 +4527,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:06 0:
 01:20:20 9:cjc056_2157
 01:21:61 0:
+#
 2-11 Level 4-627-636.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2158
@@ -4518,6 +4590,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:47:74 0:
 00:48:12 9:cjc056_2187
 00:49:57 0:
+#
 2-12 Level 4-637-648.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2188
@@ -4592,6 +4665,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:06 0:
 01:00:17 9:cjc056_2223
 01:02:44 0:
+#
 2-13 Level 4-649-660.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2224
@@ -4670,6 +4744,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:68 0:
 01:02:01 9:cjc056_2261
 01:04:11 0:
+#
 2-14 Level 4-661-674.mp3
 00:00:00 0:
 00:00:05 7:cjc056_2262
@@ -4756,6 +4831,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:55 0:
 01:10:69 9:cjc056_2303
 01:13:06 0:
+#
 2-15 Level 4-675-683.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2304
@@ -4816,6 +4892,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:49:33 0:
 00:49:45 9:cjc056_2332
 00:51:50 0:
+#
 2-16 Level 4-684-690.mp3
 00:00:00 0:
 00:00:01 10:cjc056_2333
@@ -4848,6 +4925,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:41:26 0:
 00:42:00 3:cjc056_2347
 00:44:24 0:
+#
 2-17 Level 4-691-693.mp3
 00:00:00 0:
 00:00:05 10:cjc056_2348
@@ -4876,6 +4954,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:39:37 0:
 00:39:56 4:cjc056_2360
 00:41:36 0:
+#
 2-18 Level 4-694-697.mp3
 00:00:00 0:
 00:00:07 10:cjc056_2361
@@ -4914,6 +4993,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:49:29 0:
 00:49:51 4:cjc056_2378
 00:50:58 0:
+#
 2-19 Level 4-698-708.mp3
 00:00:00 0:
 00:00:01 10:cjc056_2379
@@ -4984,6 +5064,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:49 0:
 01:13:63 9:cjc056_2412
 01:16:42 0:
+#
 2-20 Level 4-街.mp3
 00:00:00 0:
 00:00:03 10:cjc056_2413
@@ -5078,6 +5159,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:13 0:
 01:15:25 5:cjc056_2458
 01:16:46 0:
+#
 2-21 Level 5-709-719.mp3
 00:00:00 0:
 00:00:07 10:cjc056_2459
@@ -5148,6 +5230,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:51 0:
 01:07:63 9:cjc056_2492
 01:10:30 0:
+#
 2-22 Level 5-720-730.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2493
@@ -5216,6 +5299,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:19 0:
 01:07:33 9:cjc056_2525
 01:10:04 0:
+#
 2-23 Level 5-709-742.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2526
@@ -5290,6 +5374,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:25 0:
 01:08:38 9:cjc056_2561
 01:10:35 0:
+#
 2-24 Level 5-743-751.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2562
@@ -5346,6 +5431,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:52:24 0:
 00:52:37 9:cjc056_2588
 00:56:18 0:
+#
 2-25 Level 5-752-761.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2589
@@ -5412,6 +5498,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:58:60 0:
 00:58:67 9:cjc056_2620
 01:01:60 0:
+#
 2-26 Level 5-762-769.mp3
 00:00:00 0:
 00:00:13 7:cjc056_2621
@@ -5462,6 +5549,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:46:70 0:
 00:47:09 9:cjc056_2644
 00:50:33 0:
+#
 2-27 Level 5-770-775.mp3
 00:00:00 0:
 00:00:01 10:cjc056_2645
@@ -5486,6 +5574,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:31:02 0:
 00:31:53 3:cjc056_2655
 00:34:61 0:
+#
 2-28 Level 5-776-778.mp3
 00:00:00 0:
 00:00:05 10:cjc056_2656
@@ -5516,6 +5605,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:40:64 0:
 00:41:14 4:cjc056_2669
 00:43:01 0:
+#
 2-29 Level 5-779-781.mp3
 00:00:00 0:
 00:00:03 10:cjc056_2670
@@ -5550,6 +5640,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:50:54 0:
 00:51:03 4:cjc056_2685
 00:53:39 0:
+#
 2-30 Level 5-782-792.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2686
@@ -5618,6 +5709,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:09 0:
 01:05:22 9:cjc056_2718
 01:08:64 0:
+#
 2-31 Level 5-793-803.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2719
@@ -5686,6 +5778,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:32 0:
 01:02:38 9:cjc056_2751
 01:04:60 0:
+#
 2-32 Level 5-804-814.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2752
@@ -5754,6 +5847,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:22 0:
 01:05:38 9:cjc056_2784
 01:08:36 0:
+#
 2-33 Level 5-815-826.mp3
 00:00:00 0:
 00:00:05 7:cjc056_2785
@@ -5828,6 +5922,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:37 0:
 01:14:51 9:cjc056_2820
 01:17:35 0:
+#
 2-34 Level 5-827-836.mp3
 00:00:00 0:
 00:00:03 7:cjc056_2821
@@ -5890,6 +5985,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:03:29 0:
 01:03:43 9:cjc056_2850
 01:06:49 0:
+#
 2-35 Level 5-837-848.mp3
 00:00:00 0:
 00:00:07 7:cjc056_2851
@@ -5964,6 +6060,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:51 0:
 01:10:63 9:cjc056_2886
 01:13:18 0:
+#
 2-36 Level 5-849-858.mp3
 00:00:00 0:
 00:00:09 7:cjc056_2887
@@ -6026,6 +6123,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:58:22 0:
 00:58:36 9:cjc056_2916
 01:01:48 0:
+#
 2-37 Level 5-859-866.mp3
 00:00:00 0:
 00:00:01 10:cjc056_2917
@@ -6058,6 +6156,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:74 0:
 00:43:52 3:cjc056_2931
 00:46:23 0:
+#
 2-38 Level 5-867-870.mp3
 00:00:00 0:
 00:00:05 10:cjc056_2932
@@ -6092,6 +6191,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:14 0:
 01:06:38 4:cjc056_2947
 01:08:58 0:
+#
 2-39 Level 5-871-873.mp3
 00:00:00 0:
 00:00:03 10:cjc056_2948
@@ -6122,6 +6222,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:36:52 0:
 00:37:01 4:cjc056_2961
 00:38:26 0:
+#
 2-40 Level 5-874-884.mp3
 00:00:00 0:
 00:00:03 10:cjc056_2962
@@ -6192,6 +6293,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:64 0:
 01:19:03 9:cjc056_2995
 01:22:62 0:
+#
 2-41 Level 5-食べ物.mp3
 00:00:00 0:
 00:00:01 10:cjc056_2996
@@ -6314,6 +6416,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:34 0:
 01:31:47 5:cjc056_3055
 01:32:55 0:
+#
 2-42 Level 6-885-895.mp3
 00:00:00 0:
 00:00:07 10:cjc056_3056
@@ -6384,6 +6487,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:03 0:
 01:08:13 9:cjc056_3089
 01:11:52 0:
+#
 2-43 Level 6-896-906.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3090
@@ -6452,6 +6556,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:00:04 0:
 01:00:15 9:cjc056_3122
 01:03:02 0:
+#
 2-44 Level 6-907-916.mp3
 00:00:00 0:
 00:00:09 7:cjc056_3123
@@ -6514,6 +6619,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:38 0:
 01:02:48 9:cjc056_3152
 01:07:19 0:
+#
 2-45 Level 6-917-927.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3153
@@ -6582,6 +6688,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:28 0:
 01:02:42 9:cjc056_3185
 01:05:11 0:
+#
 2-46 Level 6-928-938.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3186
@@ -6650,6 +6757,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:69 0:
 01:11:07 9:cjc056_3218
 01:14:65 0:
+#
 2-47 Level 6-939-949.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3219
@@ -6718,6 +6826,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:21 0:
 01:11:33 9:cjc056_3251
 01:15:19 0:
+#
 2-48 Level 6-950-962.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3252
@@ -6798,6 +6907,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:23 0:
 01:21:33 9:cjc056_3290
 01:24:18 0:
+#
 2-49 Level 6-963-965.mp3
 00:00:00 0:
 00:00:05 10:cjc056_3291
@@ -6828,6 +6938,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:38:39 0:
 00:38:65 4:cjc056_3304
 00:40:48 0:
+#
 2-50 Level 6-966-968.mp3
 00:00:00 0:
 00:00:05 10:cjc056_3305
@@ -6858,6 +6969,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:42:33 0:
 00:42:59 4:cjc056_3318
 00:44:12 0:
+#
 2-51 Level 6-969-980.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3319
@@ -6932,6 +7044,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:33 0:
 01:11:45 9:cjc056_3354
 01:14:02 0:
+#
 2-52 Level 6-981-991.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3355
@@ -7000,6 +7113,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:71 0:
 01:13:10 9:cjc056_3387
 01:15:52 0:
+#
 2-53 Level 6-992-1000.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3388
@@ -7056,6 +7170,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:49:57 0:
 00:49:69 9:cjc056_3414
 00:52:02 0:
+#
 2-54 Level 6-1001-1011.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3415
@@ -7124,6 +7239,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:57 0:
 01:09:71 9:cjc056_3447
 01:12:52 0:
+#
 2-55 Level 6-1012-1021.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3448
@@ -7186,6 +7302,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:04 0:
 00:59:16 9:cjc056_3477
 01:01:33 0:
+#
 2-56 Level 6-1022-1032.mp3
 00:00:00 0:
 00:00:07 7:cjc056_3478
@@ -7254,6 +7371,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:62 0:
 01:08:74 9:cjc056_3510
 01:12:38 0:
+#
 2-57 Level 6-1033-1043.mp3
 00:00:00 0:
 00:00:05 7:cjc056_3511
@@ -7322,6 +7440,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:67 0:
 01:07:06 9:cjc056_3543
 01:10:04 0:
+#
 2-58 Level 6-1044-1055.mp3
 00:00:00 0:
 00:00:05 7:cjc056_3544
@@ -7396,6 +7515,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:19:74 0:
 01:20:10 9:cjc056_3579
 01:22:23 0:
+#
 2-59 Level 6-1056-1066.mp3
 00:00:00 0:
 00:00:03 10:cjc056_3580
@@ -7466,6 +7586,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:26:70 0:
 01:27:08 9:cjc056_3613
 01:29:58 0:
+#
 2-60 Level 6-家族.mp3
 00:00:00 0:
 00:00:17 5:cjc056_3614
@@ -7522,6 +7643,7 @@ REM DIRNAME cjc056,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:40:52 0:
 00:40:68 5:cjc056_3640
 00:41:73 0:
+#
 2-61 Level 6-日常表現.mp3
 00:00:00 0:
 00:00:09 10:cjc056_3641
